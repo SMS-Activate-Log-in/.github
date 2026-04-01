@@ -35,6 +35,37 @@ Whether you're a developer automating registrations, a marketer managing multipl
 
 ---
 
+## 📰 What Happened to SMS Activate Login?
+
+On **December 29th**, the original SMS-Activate platform shut down permanently. This means:
+
+- **Old login credentials** from sms-activate.org no longer work
+- **Existing account balances** on the old platform are inaccessible
+- **API keys** tied to sms-activate.org endpoints have stopped functioning
+- **Bookmarked login pages** now redirect to an offline notice
+
+For the millions of users who relied on SMS-Activate daily, this created an urgent need for a replacement with a **familiar login experience, similar dashboard layout, and compatible API**. Hero-SMS was built specifically to fill this role — using the same underlying technology, improved and modernized.
+
+> **If you had an SMS-Activate account:** You'll need to create a new account on Hero-SMS. The good news — registration takes under 60 seconds, and the interface will feel immediately familiar.
+
+---
+
+## 🔐 Hero-SMS Login — Your New Gateway to Instant SMS Verification
+
+Looking for a fast and secure way to log in and receive SMS codes online? **[Hero-SMS](https://hero-sms.com/)** is the next-generation platform built on the proven SMS-Activate technology — upgraded with faster delivery, enhanced security, and a seamless login experience.
+
+Whether you're a developer automating registrations, a marketer managing multiple accounts, or simply someone who values online privacy — Hero-SMS gives you instant access to virtual phone numbers from **180+ countries** the moment you log in.
+
+### Key Login Experience Highlights:
+
+- **One-click login** — email + password, no CAPTCHA walls or phone verification loops
+- **Persistent sessions** — stay logged in across browser sessions
+- **Multi-device access** — use the same account on desktop, tablet, and mobile
+- **Instant dashboard load** — no waiting for number inventory to populate
+- **API key always accessible** — grab your key from the dashboard immediately after login
+
+---
+
 ## ⚡ Why Choose Our SMS Activate Login Service?
 
 ### 🚀 Instant Access After Login
