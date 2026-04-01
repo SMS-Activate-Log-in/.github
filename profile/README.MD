@@ -19,7 +19,9 @@ The SMS-Activate platform officially ceased operations on December 29th. If you'
 
 ### Service Links
 
-|---|
+### Service Links
+
+| 
 | [SMS-Activate Website](https://hero-sms.com/) |
 | [Login to SMS Activate Account](https://hero-sms.com/) |
 | [Affiliate Program](https://hero-sms.com/affiliate-program/developers) |
